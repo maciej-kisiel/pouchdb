@@ -1,6 +1,6 @@
 {
   "name": "pouchdb",
-  "version": "0.0.0",
+  "version": "1.2.0-alpha",
   "description": "PouchDB is a pocket-sized database.",
   "release": "nightly",
   "author": "Dale Harvey",
@@ -34,8 +34,8 @@
     "corsproxy": "~0.2.13",
     "http-server": "~0.5.5",
     "qunit": "~0.5.17",
-    "tin": "~0.3.1",
-    "browserify": "~3.14.1"
+    "browserify": "~3.14.1",
+    "tin": "~0.4.0"
   },
   "maintainers": [
     {
